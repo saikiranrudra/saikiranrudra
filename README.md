@@ -44,7 +44,10 @@
 ### 📕 Latest Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
+
+[![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiranrudra)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
