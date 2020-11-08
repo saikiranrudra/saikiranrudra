@@ -47,9 +47,7 @@
 
 ---
 
-<details>
-    [![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiranrudra&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+[![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiranrudra&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
