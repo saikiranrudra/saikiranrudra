@@ -41,8 +41,9 @@
 <br />
 
 ---
-### 📕 Latest Blog Posts
-
+### 📕 Latest Medium Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 
 <details>
