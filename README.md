@@ -43,33 +43,15 @@
 ---
 ### 📕 Latest Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Securityand Best Pratices ‍](https://medium.com/@saikiranrudra/node-js-security-and-best-pratices-435ef4c17170?source=rss-c2de40d620ff------2)
-- [How to use dotenv](https://medium.com/@saikiranrudra/how-to-use-dotenv-e9e99001965?source=rss-c2de40d620ff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-[![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiranrudra)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-<!--END_SECTION:activity-->
-
+    [![Saikiran's github stats](https://github-readme-stats.vercel.app/api?username=saikiranrudra&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]:https://saikiranrudra.github.io
 [twitter]: https://twitter.com/saikiran_rudra
