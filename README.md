@@ -50,9 +50,9 @@
 ---
 ### 📕 Latest Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Class  Confusion Matrix](https://medium.com/@saikiranrudra/multi-class-confusion-matrix-f8970237a512?source=rss-c2de40d620ff------2)
-- [Node.js Securityand Best Pratices ‍](https://medium.com/@saikiranrudra/node-js-security-and-best-pratices-435ef4c17170?source=rss-c2de40d620ff------2)
-- [How to use dotenv](https://medium.com/@saikiranrudra/how-to-use-dotenv-e9e99001965?source=rss-c2de40d620ff------2)
+- [Multi-Class  Confusion Matrix](https://saikiranrudra.medium.com/multi-class-confusion-matrix-f8970237a512?source=rss-c2de40d620ff------2)
+- [Node.js Securityand Best Pratices ‍](https://saikiranrudra.medium.com/node-js-security-and-best-pratices-435ef4c17170?source=rss-c2de40d620ff------2)
+- [How to use dotenv](https://saikiranrudra.medium.com/how-to-use-dotenv-e9e99001965?source=rss-c2de40d620ff------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
