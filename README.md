@@ -5,9 +5,7 @@
 [![Website](https://img.shields.io/website?label=@saikiranrudra&style=for-the-badge&url=https%3A%2F%2Fmedium.com)](https://medium.com/@saikiranrudra)
 
 ## I'm a Full Stack Developer and a ML AI Enthusiast!!
-
-- ⚡ I'm currently learning Machine Learning
-- 🌱 I’m Working on Improving Development Skills
+- ⚡ I'm currently learning Machine Learning and Deep Learning
 
 
 ### Connect with me:
